@@ -1,0 +1,15 @@
+{
+	"name": "Multitheme",
+	"description": "This plugin allows you to assign different themes based upon different rules.",
+
+	"author": "Jonathon Byrd",
+	"authorEmail": "jonathon@redrokk.com",
+	"authorUrl": "http://redrokk.com",
+
+	"dependencies": {
+		"plugins": [
+			"acl",
+			"extensions"
+		]
+	}
+}
